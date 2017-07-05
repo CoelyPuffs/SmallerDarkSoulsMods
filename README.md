@@ -7,6 +7,8 @@ Quelaag Removal Mod: For the arachnophobes. Quelaag will be vanquished upon ente
 
 Undead Burg Door Fix Mod: You know the shortcut door between Undead Burg and Lower Undead Burg? The one that blocks most of the narrow stairway down? This mod flips it around so it opens into the room instead.
 
+BetterChaos(noGD): Someone specifically requested that the Giant Dad be removed from the BetterChaos Mod. Here it is.
+
 Installation Instructions:
 1.  Back up your DATA file, found under steamapps/common/Dark Souls Prepare to Die Edition
 2.  Download HotPocketRemix's modding tool, drag the program into your DATA folder, then run the program
